@@ -1,5 +1,5 @@
 # Personalised Short-Term Glucose Prediction via Recurrent Self-Attention Network
-This is the official repository of the paper "Personalised Short-Term Glucose Prediction via Recurrent Self-Attention Network".
+This is the official repository of the paper ["Personalised Short-Term Glucose Prediction via Recurrent Self-Attention Network"](https://ieeexplore.ieee.org/document/9474665/).
 ## Dependencies
 This repository has been tested on the following configuration of dependencies.
 * Python 3.8.8
